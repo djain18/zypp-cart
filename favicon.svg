@@ -1,0 +1,32 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="32" cy="32" r="30" fill="white"/>
+  
+  <!-- Gradient Background -->
+  <circle cx="32" cy="32" r="28" fill="url(#paint0_linear)"/>
+  
+  <!-- Storefront Building -->
+  <rect x="18" y="22" width="28" height="24" fill="white"/>
+  
+  <!-- Roof/Awning -->
+  <path d="M16 22L32 14L48 22H16Z" fill="#FFD700"/>
+  <path d="M16 22L48 22" stroke="#E6B800" stroke-width="1.5"/>
+  
+  <!-- Door -->
+  <rect x="27" y="34" width="10" height="12" fill="#3B82F6"/>
+  
+  <!-- Window -->
+  <rect x="20" y="26" width="8" height="6" fill="#3B82F6"/>
+  <rect x="36" y="26" width="8" height="6" fill="#3B82F6"/>
+  
+  <!-- Letter Z for Zypp -->
+  <path d="M22 28H26V29H23L26 31H22V30H25L22 28Z" fill="white"/>
+  
+  <!-- Definitions -->
+  <defs>
+    <linearGradient id="paint0_linear" x1="12" y1="12" x2="52" y2="52" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3B82F6"/> <!-- blue-500 -->
+      <stop offset="1" stop-color="#8B5CF6"/> <!-- purple-500 -->
+    </linearGradient>
+  </defs>
+</svg> 
